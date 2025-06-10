@@ -16,7 +16,7 @@
 <img src="https://skillicons.dev/icons?i=ruby,js,html,css,java,coffeescript,perl,php,scala,bash" />
 
 ### **Frameworks**
-<img src="https://skillicons.dev/icons?i=rails,angular,jquery" />
+<img src="https://skillicons.dev/icons?i=rails,angular,jquery,bootstrap" />
 
 <!--
 **jumborin/jumborin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
