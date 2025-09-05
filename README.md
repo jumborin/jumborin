@@ -1,13 +1,13 @@
 ## Skills
 
 ### **OS**
-<img src="https://skillicons.dev/icons?i=windows,ubuntu,redhat" />
+<img src="https://skillicons.dev/icons?i=windows,ubuntu,redhat,debian" />
 
 ### **Platform**
 <img src="https://skillicons.dev/icons?i=heroku,aws,azure" />
 
 ### **Development Tools**
-<img src="https://skillicons.dev/icons?i=eclipse,vscode,git,github,selenium,vim,docker,jenkins" />
+<img src="https://skillicons.dev/icons?i=eclipse,vscode,git,github,githubactions,selenium,vim,docker,jenkins,cypress,wordpress" />
 
 ### **Database**
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,sqlite,mongodb" />
